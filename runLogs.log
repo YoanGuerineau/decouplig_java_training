@@ -26,3 +26,31 @@
 2021-12-01 11:47:48.756 simulation Input number is equal to the number to guess
 2021-12-01 11:47:48.756 simulation Number found after 7 attempts
 2021-12-01 11:47:48.772 simulation Game took: 00:00:00
+2021-12-01 11:53:28.737 simulation Input number is 50
+2021-12-01 11:53:28.769 simulation Input number is lower than the number to guess
+2021-12-01 11:53:28.769 computer Greater
+2021-12-01 11:53:28.769 simulation Failed attempt. 1 failed attempts
+2021-12-01 11:53:28.769 simulation Input number is 75
+2021-12-01 11:53:28.769 simulation Input number is lower than the number to guess
+2021-12-01 11:53:28.769 computer Greater
+2021-12-01 11:53:28.769 simulation Failed attempt. 2 failed attempts
+2021-12-01 11:53:28.769 simulation Input number is 87
+2021-12-01 11:53:28.769 simulation Input number is greater than the number to guess
+2021-12-01 11:53:28.769 computer Lower
+2021-12-01 11:53:28.769 simulation Failed attempt. 3 failed attempts
+2021-12-01 11:53:28.769 simulation Input number is 81
+2021-12-01 11:53:28.769 simulation Input number is greater than the number to guess
+2021-12-01 11:53:28.769 computer Lower
+2021-12-01 11:53:28.769 simulation Failed attempt. 4 failed attempts
+2021-12-01 11:53:28.769 simulation Input number is 78
+2021-12-01 11:53:28.769 simulation Input number is greater than the number to guess
+2021-12-01 11:53:28.769 computer Lower
+2021-12-01 11:53:28.769 simulation Failed attempt. 5 failed attempts
+2021-12-01 11:53:28.769 simulation Input number is 76
+2021-12-01 11:53:28.769 simulation Input number is lower than the number to guess
+2021-12-01 11:53:28.769 computer Greater
+2021-12-01 11:53:28.769 simulation Failed attempt. 6 failed attempts
+2021-12-01 11:53:28.784 simulation Input number is 77
+2021-12-01 11:53:28.784 simulation Input number is equal to the number to guess
+2021-12-01 11:53:28.784 simulation Number found after 7 attempts
+2021-12-01 11:53:28.784 simulation Game took: 00:00:00
