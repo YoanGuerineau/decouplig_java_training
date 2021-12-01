@@ -13,8 +13,9 @@ public class HumanPlayer implements Player{
         return scanner.nextLong();
     }
 
+    // true means that input value was lower, thus expected value is greater
     @Override
     public void respond( boolean lowerOrGreater ) {
-        LoggerFactory.getLogger( "player" ).log( lowerOrGreater ? "Lower" : "Greater" );
+        LoggerFactory.getLogger( "player" ).log( lowerOrGreater ? "Greater" : "Lower" );
     }
 }
